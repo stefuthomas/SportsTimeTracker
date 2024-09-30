@@ -15,7 +15,7 @@
     </properties>
 
     <build>
-        <finalName>calculator</finalName>
+        <finalName>sportstimetracker</finalName>
         <plugins>
             <!-- Compiler Plugin for setting the Java version -->
             <plugin>
@@ -36,7 +36,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>Calculator</mainClass> <!-- Correct main class -->
+                            <mainClass>SportsTimeTracker</mainClass> <!-- Correct main class -->
                         </manifest>
                     </archive>
                 </configuration>
